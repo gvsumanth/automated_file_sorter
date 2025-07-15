@@ -3,23 +3,23 @@
 This is a Python-based automation tool that monitors a folder in real time and sorts newly added files into categorized directories based on their file types. It also includes functionality to revert the sorting and restore the original folder structure. A simple GUI built with Tkinter allows the user to control these functions with start, stop, and exit buttons.
 
 ## Features
-
+```
 - Real-time folder monitoring using `watchdog`
 - Automatic sorting of files into categorized folders
 - Revert function to move files back to the original folder
 - GUI with buttons to control sorter, reverter, and watcher
 - Logging of all actions and errors
-
+```
 ## Technologies Used
-
+```
 - Python 3
 - watchdog
 - tkinter
 - logging
 - shutil, os
-
+```
 ## Project Structure
-
+```
 project/
 ├── files/              # Folder being monitored
 ├── resources/              # Folder with various files
@@ -29,7 +29,7 @@ project/
 ├── app.py              # GUI interface for user interaction
 ├── all_logs.log          # Logs actions taken by the sorter
 └── README.md
-
+```
 
 You can edit this file to customize the sorting behavior.
 
@@ -70,5 +70,6 @@ python revert.py
 ```
 
 ## Logging
-
+```
 Logs are saved in `all_logs.log` with timestamps for each operation and any warnings for unknown file types.
+```
