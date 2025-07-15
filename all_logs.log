@@ -1,0 +1,215 @@
+2025-07-15 19:35:06,203 - INFO - Sorter Started
+2025-07-15 19:35:33,738 - INFO - Sorter Started
+2025-07-15 19:35:47,345 - INFO - Sorter Started
+2025-07-15 19:38:20,952 - INFO - Sorter Started
+2025-07-15 19:38:35,866 - INFO - Sorter Started
+2025-07-15 19:42:28,055 - root - INFO - Sorter Started
+2025-07-15 19:43:29,787 - root - INFO - Sorter Started - SORTER FILE
+2025-07-15 19:58:24,749 - root - INFO - Sorter Started - SORTER FILE
+2025-07-15 19:58:24,749 - root - INFO - We've got a folder named: csv files - SORTER FILE
+2025-07-15 19:58:24,749 - root - INFO - Unknown filedesktop.ini - SORTER FILE
+2025-07-15 19:58:24,749 - root - INFO - We've got a folder named: docx files - SORTER FILE
+2025-07-15 19:58:24,751 - root - INFO - We've got a folder named: image files - SORTER FILE
+2025-07-15 19:58:24,755 - root - INFO - We've got a folder named: pdf files - SORTER FILE
+2025-07-15 19:58:24,755 - root - INFO - We've got a folder named: pptx files - SORTER FILE
+2025-07-15 19:58:24,755 - root - INFO - new file detected: ProjectReport-IT07.docx - SORTER FILE
+2025-07-15 19:58:24,756 - root - INFO - the file ProjectReport-IT07.docx is put inside the folder docx files - SORTER FILE
+2025-07-15 19:58:24,756 - root - INFO - We've got a folder named: temp2 - SORTER FILE
+2025-07-15 19:58:24,756 - root - INFO - We've got a folder named: text files - SORTER FILE
+2025-07-15 20:00:19,114 - root - INFO - SORTER FILE - Sorter Started
+2025-07-15 20:00:19,122 - root - INFO - SORTER FILE - We've got a folder named: csv files
+2025-07-15 20:00:19,123 - root - INFO - SORTER FILE - Unknown file: desktop.ini
+2025-07-15 20:00:19,123 - root - INFO - SORTER FILE - We've got a folder named: docx files
+2025-07-15 20:00:19,123 - root - INFO - SORTER FILE - We've got a folder named: image files
+2025-07-15 20:00:19,123 - root - INFO - SORTER FILE - We've got a folder named: pdf files
+2025-07-15 20:00:19,123 - root - INFO - SORTER FILE - We've got a folder named: pptx files
+2025-07-15 20:00:19,123 - root - INFO - SORTER FILE - We've got a folder named: temp2
+2025-07-15 20:00:19,123 - root - INFO - SORTER FILE - We've got a folder named: text files
+2025-07-15 20:03:05,866 - root - INFO - SORTER FILE - Sorter Started
+2025-07-15 20:03:05,874 - root - INFO - SORTER FILE - Unknown file: csv files
+2025-07-15 20:03:05,874 - root - INFO - SORTER FILE - Unknown file: desktop.ini
+2025-07-15 20:03:05,874 - root - INFO - SORTER FILE - Unknown file: docx files
+2025-07-15 20:03:05,874 - root - INFO - SORTER FILE - Unknown file: image files
+2025-07-15 20:03:05,874 - root - INFO - SORTER FILE - Unknown file: pdf files
+2025-07-15 20:03:05,874 - root - INFO - SORTER FILE - Unknown file: pptx files
+2025-07-15 20:03:05,875 - root - INFO - SORTER FILE - Unknown file: temp2
+2025-07-15 20:03:05,875 - root - INFO - SORTER FILE - Unknown file: text files
+2025-07-15 20:03:56,261 - root - INFO - SORTER FILE - Sorter Started
+2025-07-15 20:03:56,262 - root - INFO - SORTER FILE - Unknown file: desktop.ini
+2025-07-15 20:09:33,748 - root - INFO - WTHDOG FILE - Watchdog is watching  
+2025-07-15 20:09:33,753 - root - INFO - WTHDOG FILE - \U0001f440 Watching folder: C:/Users/Admin/Documents/projects/python projects/automatic file sorter/files
+2025-07-15 20:09:39,821 - root - INFO - WTHDOG FILE - New file detected: doceventshub2024.docx
+2025-07-15 20:09:39,823 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 20:09:39,886 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 20:09:39,886 - root - INFO - WTHDOG FILE - Unknown file: desktop.ini
+2025-07-15 20:09:39,888 - root - INFO - WTHDOG FILE - the file doceventshub2024.docx is put inside the folder docx files
+2025-07-15 20:09:39,888 - root - INFO - WTHDOG FILE - the file doceventshub2024.docx is sorted
+2025-07-15 20:10:55,382 - root - INFO - WTHDOG FILE - Watchdog interrupted
+2025-07-15 20:13:23,124 - root - INFO - APP    FILE - App Started
+2025-07-15 20:14:07,893 - root - INFO - APP    FILE - App Started
+2025-07-15 20:14:08,101 - root - INFO - APP    FILE - Watchdog is watching
+2025-07-15 20:14:08,101 - root - INFO - APP    FILE - \U0001f440 Watching folder: C:/Users/Admin/Documents/projects/python projects/automatic file sorter/files
+2025-07-15 20:14:12,626 - root - INFO - APP    FILE - New file detected: links.txt
+2025-07-15 20:14:12,626 - root - INFO - APP    FILE - Running file_sorter.py to sort the file
+2025-07-15 20:14:12,651 - root - INFO - APP    FILE - Sorter Started
+2025-07-15 20:14:12,651 - root - INFO - APP    FILE - the file links.txt is put inside the folder text files
+2025-07-15 20:14:12,651 - root - INFO - APP    FILE - the file links.txt is sorted
+2025-07-15 20:15:13,490 - root - INFO - APP    FILE - Watchdog Stopped
+2025-07-15 20:15:54,453 - root - INFO - APP    FILE - App Started
+2025-07-15 20:15:54,644 - root - INFO - APP    FILE - Watchdog is watching
+2025-07-15 20:15:54,644 - root - INFO - APP    FILE - Watching folder: C:/Users/Admin/Documents/projects/python projects/automatic file sorter/files
+2025-07-15 20:15:58,175 - root - INFO - APP    FILE - We've got a folder named: temp2
+2025-07-15 20:16:08,949 - root - INFO - APP    FILE - Watchdog Stopped
+2025-07-15 20:19:43,210 - root - INFO - SORTER FILE - Sorter Started
+2025-07-15 20:19:43,210 - root - WARNING - SORTER FILE - Unknown file: desktop.ini
+2025-07-15 20:26:33,242 - root - INFO - APP    FILE - App Started
+2025-07-15 20:26:57,247 - root - INFO - APP    FILE - Sorter Started
+2025-07-15 20:26:57,247 - root - WARNING - APP    FILE - Unknown file: desktop.ini
+2025-07-15 20:26:57,262 - root - INFO - APP    FILE - the file links.txt is put inside the folder text files
+2025-07-15 20:33:10,845 - root - INFO - APP    FILE - App Started
+2025-07-15 20:33:28,325 - root - INFO - APP    FILE - App Started
+2025-07-15 20:33:34,029 - root - INFO - APP    FILE - Sorter Started
+2025-07-15 20:33:34,029 - root - WARNING - APP    FILE - Unknown file: desktop.ini
+2025-07-15 20:33:34,029 - root - INFO - APP    FILE - the file links.txt is put inside the folder text files
+2025-07-15 20:35:46,125 - root - INFO - APP    FILE - App Started
+2025-07-15 20:35:52,999 - root - INFO - APP    FILE - Sorter Started
+2025-07-15 20:35:52,999 - root - INFO - APP    FILE - the file links.txt is put inside the folder text files
+2025-07-15 20:35:57,749 - root - INFO - APP    FILE - Sorter Started
+2025-07-15 20:41:14,417 - root - INFO - APP    FILE - App Started
+2025-07-15 20:41:18,599 - root - INFO - APP    FILE - Sorter Started
+2025-07-15 20:41:18,599 - root - INFO - APP    FILE - the file links.txt is put inside the folder text files
+2025-07-15 20:43:06,269 - root - INFO - APP    FILE - App Started
+2025-07-15 20:53:57,135 - root - INFO - APP    FILE - App Started
+2025-07-15 20:56:56,416 - root - INFO - APP    FILE - App Started
+2025-07-15 20:57:00,688 - root - INFO - WTHDOG FILE - Watchdog is watching
+2025-07-15 20:57:00,688 - root - INFO - WTHDOG FILE - Watching folder: C:/Users/Admin/Documents/projects/python projects/automatic file sorter/files
+2025-07-15 20:57:12,553 - root - INFO - WTHDOG FILE - New file detected: Technology Internship Assignment-MLRIT.pdf
+2025-07-15 20:57:12,554 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 20:57:12,567 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 20:57:12,568 - root - INFO - WTHDOG FILE - the file links.txt is put inside the folder text files
+2025-07-15 20:57:12,569 - root - INFO - WTHDOG FILE - the file Technology Internship Assignment-MLRIT.pdf is put inside the folder pdf files
+2025-07-15 20:57:12,569 - root - INFO - WTHDOG FILE - the file Technology Internship Assignment-MLRIT.pdf is sorted
+2025-07-15 21:06:53,075 - root - INFO - APP    FILE - App Started
+2025-07-15 21:15:22,362 - root - INFO - APP    FILE - App Started
+2025-07-15 21:17:55,159 - root - INFO - APP    FILE - App Started
+2025-07-15 21:18:16,239 - root - INFO - APP    FILE - App Started
+2025-07-15 21:19:42,336 - root - INFO - APP    FILE - App Started
+2025-07-15 21:29:28,823 - root - INFO - APP    FILE - App Started
+2025-07-15 21:32:45,162 - root - INFO - WTHDOG FILE - Watchdog is watching
+2025-07-15 21:32:45,164 - root - INFO - WTHDOG FILE - Watching folder: C:/Users/Admin/Documents/projects/python projects/automatic file sorter/files
+2025-07-15 21:32:54,950 - root - INFO - WTHDOG FILE - New file detected: cats.jpeg
+2025-07-15 21:32:54,951 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:32:54,975 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:32:54,977 - root - INFO - WTHDOG FILE - \u274c Error while running file_sorter: 'csv files'
+2025-07-15 21:32:54,978 - root - INFO - WTHDOG FILE - We've got a folder named: csv files
+2025-07-15 21:33:32,846 - root - INFO - SORTER FILE - Sorter Started
+2025-07-15 21:33:32,847 - root - INFO - WTHDOG FILE - We've got a folder named: image files
+2025-07-15 21:35:13,688 - root - INFO - APP    FILE - App Started
+2025-07-15 21:35:25,658 - root - INFO - SORTER FILE - Sorter Started
+2025-07-15 21:35:25,659 - root - INFO - WTHDOG FILE - We've got a folder named: pdf files
+2025-07-15 21:35:25,659 - root - INFO - WTHDOG FILE - We've got a folder named: text files
+2025-07-15 21:35:25,660 - root - INFO - WTHDOG FILE - We've got a folder named: pptx files
+2025-07-15 21:35:25,660 - root - INFO - WTHDOG FILE - We've got a folder named: docx files
+2025-07-15 21:35:25,661 - root - INFO - SORTER FILE - the file 20210324_104104.jpg is put inside the folder image files
+2025-07-15 21:35:25,678 - root - INFO - SORTER FILE - the file cats.jpeg is put inside the folder image files
+2025-07-15 21:35:25,679 - root - INFO - SORTER FILE - the file links.txt is put inside the folder text files
+2025-07-15 21:35:25,680 - root - INFO - SORTER FILE - the file ProjectReport-IT07.docx is put inside the folder docx files
+2025-07-15 21:35:25,681 - root - INFO - SORTER FILE - the file Technology Internship Assignment-MLRIT.pdf is put inside the folder pdf files
+2025-07-15 21:35:51,591 - root - INFO - APP    FILE - App Started
+2025-07-15 21:35:55,136 - root - INFO - WTHDOG FILE - New file detected: ProjectReport-IT07.docx
+2025-07-15 21:35:55,136 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:35:55,140 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:35:55,149 - root - INFO - WTHDOG FILE - the file 20210324_104104.jpg is put inside the folder image files
+2025-07-15 21:35:55,151 - root - INFO - WTHDOG FILE - the file cats.jpeg is put inside the folder image files
+2025-07-15 21:35:55,154 - root - INFO - WTHDOG FILE - the file links.txt is put inside the folder text files
+2025-07-15 21:35:55,155 - root - INFO - WTHDOG FILE - the file ProjectReport-IT07.docx is put inside the folder docx files
+2025-07-15 21:35:55,157 - root - INFO - WTHDOG FILE - the file Technology Internship Assignment-MLRIT.pdf is put inside the folder pdf files
+2025-07-15 21:35:55,157 - root - INFO - WTHDOG FILE - the file ProjectReport-IT07.docx is sorted
+2025-07-15 21:35:55,158 - root - INFO - WTHDOG FILE - New file detected: 20210324_104104.jpg
+2025-07-15 21:35:55,158 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:35:55,161 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:35:55,163 - root - INFO - WTHDOG FILE - the file 20210324_104104.jpg is sorted
+2025-07-15 21:35:55,163 - root - INFO - WTHDOG FILE - New file detected: cats.jpeg
+2025-07-15 21:35:55,163 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:35:55,166 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:35:55,168 - root - INFO - WTHDOG FILE - the file cats.jpeg is sorted
+2025-07-15 21:35:55,168 - root - INFO - WTHDOG FILE - New file detected: Technology Internship Assignment-MLRIT.pdf
+2025-07-15 21:35:55,168 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:35:55,171 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:35:55,172 - root - INFO - WTHDOG FILE - the file Technology Internship Assignment-MLRIT.pdf is sorted
+2025-07-15 21:35:55,172 - root - INFO - WTHDOG FILE - New file detected: links.txt
+2025-07-15 21:35:55,172 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:35:55,175 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:35:55,175 - root - INFO - WTHDOG FILE - the file links.txt is sorted
+2025-07-15 21:35:55,176 - root - INFO - WTHDOG FILE - We've got a folder named: csv files
+2025-07-15 21:35:55,176 - root - INFO - WTHDOG FILE - We've got a folder named: image files
+2025-07-15 21:35:55,176 - root - INFO - WTHDOG FILE - We've got a folder named: pdf files
+2025-07-15 21:35:55,176 - root - INFO - WTHDOG FILE - We've got a folder named: text files
+2025-07-15 21:35:55,176 - root - INFO - WTHDOG FILE - We've got a folder named: pptx files
+2025-07-15 21:35:55,177 - root - INFO - WTHDOG FILE - We've got a folder named: docx files
+2025-07-15 21:36:11,456 - root - INFO - WTHDOG FILE - New file detected: ProjectReport-IT07.docx
+2025-07-15 21:36:11,457 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:36:11,460 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:36:11,463 - root - INFO - WTHDOG FILE - the file 20210324_104104.jpg is put inside the folder image files
+2025-07-15 21:36:11,465 - root - INFO - WTHDOG FILE - the file ProjectReport-IT07.docx is put inside the folder docx files
+2025-07-15 21:36:11,465 - root - INFO - WTHDOG FILE - the file ProjectReport-IT07.docx is sorted
+2025-07-15 21:36:11,465 - root - INFO - WTHDOG FILE - New file detected: 20210324_104104.jpg
+2025-07-15 21:36:11,465 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:36:11,468 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:36:11,472 - root - INFO - WTHDOG FILE - the file cats.jpeg is put inside the folder image files
+2025-07-15 21:36:11,473 - root - INFO - WTHDOG FILE - the file links.txt is put inside the folder text files
+2025-07-15 21:36:11,474 - root - INFO - WTHDOG FILE - the file Technology Internship Assignment-MLRIT.pdf is put inside the folder pdf files
+2025-07-15 21:36:11,475 - root - INFO - WTHDOG FILE - the file 20210324_104104.jpg is sorted
+2025-07-15 21:36:11,475 - root - INFO - WTHDOG FILE - New file detected: cats.jpeg
+2025-07-15 21:36:11,475 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:36:11,478 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:36:11,480 - root - INFO - WTHDOG FILE - the file cats.jpeg is sorted
+2025-07-15 21:36:11,480 - root - INFO - WTHDOG FILE - New file detected: Technology Internship Assignment-MLRIT.pdf
+2025-07-15 21:36:11,480 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:36:11,481 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:36:11,483 - root - INFO - WTHDOG FILE - the file Technology Internship Assignment-MLRIT.pdf is sorted
+2025-07-15 21:36:11,483 - root - INFO - WTHDOG FILE - New file detected: links.txt
+2025-07-15 21:36:11,483 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:36:11,485 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:36:11,486 - root - INFO - WTHDOG FILE - the file links.txt is sorted
+2025-07-15 21:36:11,486 - root - INFO - WTHDOG FILE - We've got a folder named: csv files
+2025-07-15 21:37:37,026 - root - INFO - APP    FILE - App Started
+2025-07-15 21:37:59,100 - root - INFO - SORTER FILE - Sorter Started
+2025-07-15 21:37:59,104 - root - INFO - SORTER FILE - the file 20210324_104104.jpg is put inside the folder image files
+2025-07-15 21:37:59,105 - root - INFO - SORTER FILE - the file cats.jpeg is put inside the folder image files
+2025-07-15 21:37:59,105 - root - INFO - SORTER FILE - the file links.txt is put inside the folder text files
+2025-07-15 21:37:59,106 - root - INFO - SORTER FILE - the file ProjectReport-IT07.docx is put inside the folder docx files
+2025-07-15 21:37:59,107 - root - INFO - SORTER FILE - the file Technology Internship Assignment-MLRIT.pdf is put inside the folder pdf files
+2025-07-15 21:38:07,126 - root - INFO - WTHDOG FILE - Watchdog is watching
+2025-07-15 21:38:07,129 - root - INFO - WTHDOG FILE - Watching folder: C:/Users/Admin/Documents/projects/python projects/automatic file sorter/files
+2025-07-15 21:38:39,994 - root - INFO - WTHDOG FILE - New file detected: 20210105_183404.jpeg
+2025-07-15 21:38:39,994 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:38:40,018 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:38:40,025 - root - INFO - WTHDOG FILE - the file 20210105_183404.jpeg is put inside the folder image files
+2025-07-15 21:38:40,027 - root - INFO - WTHDOG FILE - the file 20210324_104104.jpg is put inside the folder image files
+2025-07-15 21:38:40,032 - root - INFO - WTHDOG FILE - the file cats.jpeg is put inside the folder image files
+2025-07-15 21:38:40,033 - root - INFO - WTHDOG FILE - the file links.txt is put inside the folder text files
+2025-07-15 21:38:40,035 - root - INFO - WTHDOG FILE - the file ProjectReport-IT07.docx is put inside the folder docx files
+2025-07-15 21:38:40,036 - root - INFO - WTHDOG FILE - the file Technology Internship Assignment-MLRIT.pdf is put inside the folder pdf files
+2025-07-15 21:38:40,036 - root - INFO - WTHDOG FILE - the file 20210105_183404.jpeg is sorted
+2025-07-15 21:38:40,036 - root - INFO - WTHDOG FILE - We've got a folder named: csv files
+2025-07-15 21:38:40,036 - root - INFO - WTHDOG FILE - We've got a folder named: image files
+2025-07-15 21:38:40,037 - root - INFO - WTHDOG FILE - We've got a folder named: pdf files
+2025-07-15 21:38:40,037 - root - INFO - WTHDOG FILE - We've got a folder named: text files
+2025-07-15 21:38:40,037 - root - INFO - WTHDOG FILE - We've got a folder named: pptx files
+2025-07-15 21:38:40,037 - root - INFO - WTHDOG FILE - We've got a folder named: docx files
+2025-07-15 21:39:26,202 - root - INFO - WTHDOG FILE - New file detected: 20211227_132744.jpg
+2025-07-15 21:39:26,203 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:39:26,206 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:39:26,210 - root - INFO - WTHDOG FILE - the file 20211227_132744.jpg is put inside the folder image files
+2025-07-15 21:39:26,210 - root - INFO - WTHDOG FILE - the file 20211227_132744.jpg is sorted
+2025-07-15 21:39:48,048 - root - INFO - WTHDOG FILE - New file detected: CUSTOMER RELATIONSHIP MANAGEMENT-3319.docx
+2025-07-15 21:39:48,048 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:39:48,052 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:39:48,054 - root - INFO - WTHDOG FILE - the file CUSTOMER RELATIONSHIP MANAGEMENT-3319.docx is put inside the folder docx files
+2025-07-15 21:39:48,055 - root - INFO - WTHDOG FILE - the file CUSTOMER RELATIONSHIP MANAGEMENT-3319.docx is sorted
+2025-07-15 21:39:57,655 - root - INFO - WTHDOG FILE - New file detected: DSC_0196.jpeg
+2025-07-15 21:39:57,655 - root - INFO - WTHDOG FILE - Running file_sorter.py to sort the file
+2025-07-15 21:39:57,660 - root - INFO - WTHDOG FILE - Sorter Started
+2025-07-15 21:39:57,662 - root - INFO - WTHDOG FILE - the file DSC_0196.jpeg is put inside the folder image files
+2025-07-15 21:39:57,662 - root - INFO - WTHDOG FILE - the file DSC_0196.jpeg is sorted
